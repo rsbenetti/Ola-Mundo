@@ -1,0 +1,51 @@
+Curso de Git e GitHub: grátis, prático e sem usar comandos no terminal.
+Professor: Gustavo Guanabara
+Duração do Curso: 8h 08m 18s | 13 vídeos
+
+
+GitHub desktop | Git | VS CODE
+GitHub desktop: Repositório Remoto
+Git: Programa de versionamento (Versionamento local) (histórico de alterações, permitindo acompanhar todas as modificações realizadas em um projeto ao longo do tempo. (com histórico))
+VS Code: Programa onde cria-se os códigos.
+GitHub: Rede social de programadores.
+
+---
+Termos aprendidos:
+Código Versionado: é um código que possui um histórico de alterações, permitindo acompanhar todas as modificações realizadas em um projeto ao longo do tempo. (com histórico)
+Quem permite o VERSIONAMENTO É O GIT (que é integrado automaticamente com o GITHUB)
+Repositório: É uma área onde tem um código que está versionado (público ou privado)
+Commit: Atualizar o projeto no repositório local (GitHub desktop)
+Fretch: Verificar se tem atualizações que foram feitas de forma online
+Push: É o ato de enviar o projeto para o ONLINE
+Pull: É o ato de "puxar" o projeto do online para o meu VISUAL CODE/REPOSITÓRIO REMOTO
+Clonagem: É  possível puxar os dados do repositório, pode alterar.. mas não pode fazer um push para o repositório oficial de quem vc clonou.
+Para ver se uma pasta é "versionada", é só entrar nela, clicar em "exibir" e depois "mostrar ocultos", vai aparece uma pasta chamada "git" OU no final do diretório, pode colocar "\.git"
+gitingore: É um recurso utilizável do GitHub Desktop onde é possível ignorar arquivos por extensão (exemplo dado no curso é .ds ou .html) Se ignorados, não vai subir o arquivo localmente (quando commitar) e nem mandar para o GitHub (quando fizer o push)
+
+Seguinte:
+issues: Solução de problemas | Busca por possíveis problemas que você teve no programa. Se não tiver alguém falando sobre o erro, pode CRIAR uma ISSUE.
+Criar sempre um save reply para determinadas situações (agradecer ou pedir). Modelo de padrão de envio de mensagens.
+
+forks: fazer uma vertente separada de X projeto que foi clonado
+
+branchs (ramificações -> ramo -> árvore): todas as partes do programa são BRANCHS. Existe a Branch MASTER (main), que é onde está o programa principal já atualizado. E existe as BRANCHS secundárias.
+Quando eu for desenvolver um feature nova de um site ou software, a gente não commita na MASTER (MAIN), porque se a gente fizer algo de errado, a gente fez no TRONCO principal (main)
+A gente comitta na BRANCH (Não principal), e depois que autorizado pra gente JUNTAR com a MASTER, a gente dá um MERGE (basicamente é juntar os 2). E a partir que elas estão juntas, nós teremos uma nova versão do software/site.
+Além disso, é possível criar outra linha de branch, pra ir commitando (por exemplo, outra parte de um site ou software)
+Se a Branch não for aprovada, ou se a gente não conseguir terminar ela por algum motivo, a gente consegue deletar ela.. e não impacta diretamente na MAIN.
+
+
+MERGE: Processo de juntar a atualização (BRANCH) no MAIN (projeto atualizado). 
+ 
+ORIGIN: Fazer PUSH no GITHUB (SITE) (repositorio online)
+
+Pull Request: É quando a gente nota um problema no software, a gente dá um FORK no projeto, criar uma branch (ramificação desse projeto), consertar ou acrescentar coisas ao trabalho e enviar diretamente para o desenvolvedor, (e o desenvolvedor vai ou não aceitar sua solução.
+
+2004 foi criado o reddit, formato feed rss, creative Commons. Os mesmos criadores, criaram o Markdown também em 2004. 
+
+
+Como não commitar a MASTER (MAIN)? 
+
+
+
+
